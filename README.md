@@ -9,7 +9,7 @@ This is a Flutter-based mobile application inspired by the classic Japanese anim
 
 ### Key Features
 * **Immersive Splash Screen:** Features traditional vertical Japanese typography (right-to-left) with staggered fade-in animations. The sequence culminates in a dramatic red scale-up effect and a floating triangle, setting a chilling tone.
-* **Midnight Countdown (Hell Mail):** A specialized screen that simulates the "midnight-only" access rule. It includes a dynamic timer that counts down to `00:00`, triggering a massive, glowing phantom effect before revealing the name input form.
+* **Midnight Countdown (Hell Mail):** A specialized screen that simulates the "midnight-only" access rule. It includes a dynamic timer that counts down to `00:00`, revealing the name input form.
 * **Interactive Home Screen:** Contains collapsible sections detailing the lore, character profiles, and classic quotes. 
 * **Custom Page Transitions:** Implements custom `PageRouteBuilder` for smooth, slide-in-from-right transitions when viewing detailed character cards.
 * **Multimedia Integration:** * Continuous, cross-screen background music (BGM) using `audioplayers`.
@@ -42,7 +42,7 @@ This is a Flutter-based mobile application inspired by the classic Japanese anim
 
 ### 核心功能
 * **沉浸式開場動畫 (Splash Screen)：** 採用傳統日式直排文字（由右至左），搭配交錯式淡入動畫。最後一句台詞帶有極具視覺衝擊力的「純紅放大震動」特效與浮動三角形，完美營造降靈氛圍。
-* **地獄通信介面 (Hell Mail)：** 模擬「只有在午夜零時才能連線」的設定。包含一個從 `23:50` 倒數至 `00:00` 的動態計時器，當時間到達零時，會觸發巨大的紅色虛影特效，隨後浮現怨恨對象的輸入表單。
+* **地獄通信介面 (Hell Mail)：** 模擬「只有在午夜零時才能連線」的設定。包含一個從 `23:50` 倒數至 `00:00` 的動態計時器，當時間到達零時，浮現怨恨對象的輸入表單。
 * **互動式主畫面 (Home Screen)：** 包含世界觀介紹、角色圖鑑與經典台詞的收合式清單。
 * **客製化轉場動畫：** 點擊角色卡片時，採用自訂的 `PageRouteBuilder` 實作由右側平滑滑入的專屬過場動畫。
 * **多媒體整合：** * 使用 `audioplayers` 實作跨頁面無縫循環播放的背景音樂 (BGM)。
