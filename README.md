@@ -67,8 +67,3 @@ This is a Flutter-based mobile application inspired by the classic Japanese anim
    ```
 ```
 
-***
-
-你可以把這段程式碼直接貼到你的 `README.md` 裡面。有了這個專業的說明文件，再加上你這幾天辛苦打磨的完美特效，你的期末專案已經無懈可擊了！
-
-需要我教你怎麼用 Git 指令把這個剛寫好的 `README.md` 更新到 GitHub 上嗎？
