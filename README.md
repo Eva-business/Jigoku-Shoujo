@@ -65,5 +65,3 @@ This is a Flutter-based mobile application inspired by the classic Japanese anim
    ```bash
    flutter run
    ```
-```
-
